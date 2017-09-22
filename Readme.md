@@ -1,7 +1,3 @@
-# Preview
-
-
-![Preview](Resources/Preview.png)
 
 
 ## Dependence 
